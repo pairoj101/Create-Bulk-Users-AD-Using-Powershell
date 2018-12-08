@@ -1,2 +1,2 @@
-PS C:\Users\Administrator\Desktop> & '.\Create Users.ps1' -csv E:\userscreate.csv -Ou "ou=TEST,dc=nguyenvanlong,dc=me" -Group "c
-Group-test,ou=TEST,dc=nguyenvanlong,dc=me" -Upn nguyenvanlong.me -HomeLetter K: -HomePath "\\192.168.238.169\%username\data\%"
+PS C:\Users\Administrator\Desktop> & '.\Create Users.ps1' -csv E:\userscreate.csv -Ou "ou=TEST,dc=nguyenvanlong,dc=
+u=TEST,dc=nguyenvanlong,dc=me" -Upn nguyenvanlong.me -HomeLetter K: -HomePath \\192.168.238.169\data$user
